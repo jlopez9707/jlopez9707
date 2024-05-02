@@ -47,6 +47,8 @@ Y alguna más...
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
+#### ¡Encantado de conocerte! Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en ponerte en contacto conmigo.
+
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 ## Contacto y apoyo:
