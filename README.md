@@ -24,7 +24,11 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+<p align="left">
+<a href="https://dev.to/javi9707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="javi9707" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-l%c3%b3pez-requejo-57332622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-l%c3%b3pez-requejo-57332622b" height="30" width="40" /></a>
+<a href="https://codesandbox.com/jlopez97work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jlopez97work" height="30" width="40" /></a>
+</p>
 
 # Los proyectos de la comunidad
 
@@ -48,23 +52,3 @@ Y alguna más...
 [![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm JAvi</h1>
-<h3 align="center">Freelance full-stack engineer</h3>
-
-- 💬 Ask me about **react, node, vue, laravel, godot,**
-
-- 📫 How to reach me **javierlopezrequejo@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/javi9707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="javi9707" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-l%c3%b3pez-requejo-57332622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-l%c3%b3pez-requejo-57332622b" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jlopez97work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jlopez97work" height="30" width="40" /></a>
-</p>
