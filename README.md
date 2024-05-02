@@ -1,4 +1,4 @@
-# ![Texto alternativo de la imagen](https://iconos8.es/icon/v551nqGeHhGn/github)Hola, mi nombre es JAvi 👋
+# ![image](https://iconos8.es/icon/LoL4bFzqmAa0/github)Hola, mi nombre es JAvi 👋
 ### Freelance full-stack engineer
 # Esta presentación está en desarrollo ...
 
