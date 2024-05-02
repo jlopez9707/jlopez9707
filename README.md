@@ -2,7 +2,7 @@
 ### Freelance full-stack engineer
 # Esta presentación está en desarrollo ...
 
-![https://github.com/jlopez](https://formaciononline.eu/wp-content/uploads/2017/09/libros-programacion-pdf-gratis.jpg){: width="100%" }
+![https://github.com/jlopez](https://formaciononline.eu/wp-content/uploads/2017/09/libros-programacion-pdf-gratis.jpg)
 
 Soy ingeniero de software profesional desde hace más de dos años.
 
