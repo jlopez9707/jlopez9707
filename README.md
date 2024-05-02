@@ -1,4 +1,4 @@
-# ![image-profile =100x100](https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg)Hola, mi nombre es JAvi 👋
+# ![image-profile]()Hola, mi nombre es JAvi 👋
 ### Freelance full-stack engineer
 # Esta presentación está en desarrollo ...
 
